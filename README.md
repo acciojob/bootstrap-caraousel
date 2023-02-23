@@ -1,10 +1,10 @@
-# Favorite Holiday 
+# Bootstrap Caraousel
 
-### Create a webpage that describes your favorite holiday destination. The webpage should include the following elements:
+### Create a webpage that shows slides of your favorite food in the form of caraousel. The webpage should include the following elements:
 
-- A heading (h1) with the name of the holiday destination
-- A paragraph that provides a brief overview of the destination
-- A line break between the heading and the paragraph
-- An ordered list that lists the top 5 attractions in the destination
-- An unordered list that lists the must-try foods in the destination
-- Text within the ordered and unordered lists should be bold (strong or b) and/or italicized (em or i) to emphasize important information.
+- A Caraousel with 3 slides.
+- Left and Right buttons to change the slides.
+
+The webpage should look somewhat like this: 
+
+![image](https://user-images.githubusercontent.com/78348500/220978615-8b9886ae-2abf-405d-9f13-58500336317f.png)
