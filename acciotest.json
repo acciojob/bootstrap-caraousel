@@ -1,4 +1,4 @@
 {
-    "testRepo": "favorite-holiday-solution",
+    "testRepo": "bootstrap-caraousel-solution",
     "pathToFile": "cypress/integration/tests/test.spec.js"
 }
